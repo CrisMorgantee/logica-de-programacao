@@ -52,6 +52,8 @@
 
 ## TÓPICO 7
 
+* [Consolidando o Conhecimento de Funções e Parâmetros](topico-7/consolidando-o-conhecimento-de-funcoes-e-parametros.md)
+* [Introdução às Funções de Ordem Superior (Higher-Order Function)](topico-7/introducao-as-funcoes-de-ordem-superior-higher-order-function.md)
 * [Consolidando o Conhecimento de Arrays e Objetos](topico-7/consolidando-o-conhecimento-de-arrays-e-objetos.md)
 
 ***
@@ -60,8 +62,6 @@
 * [Manipulação de Strings em JavaScript](manipulacao-de-strings-em-javascript.md)
 * [Projeto Prático: Biblioteca de Livros](projeto-pratico-biblioteca-de-livros.md)
 * [Tarefa para Praticar](tarefa-para-praticar-2.md)
-* [Consolidando o Conhecimento de Funções e Parâmetros](consolidando-o-conhecimento-de-funcoes-e-parametros.md)
-* [Introdução às Funções de Ordem Superior (Higher-Order Function)](introducao-as-funcoes-de-ordem-superior-higher-order-function.md)
 * [Projeto Integrador: Sistema de Cadastro de Alunos](projeto-integrador-sistema-de-cadastro-de-alunos.md)
 * [Discussão e Perguntas](discussao-e-perguntas.md)
 * [Tarefa para Praticar](tarefa-para-praticar-3.md)

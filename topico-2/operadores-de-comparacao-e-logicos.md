@@ -68,26 +68,8 @@ Permitem comparar valores.
 let igual = 5 == "5"; // true
 let estritamenteIgual = 5 === "5"; // false
 let maiorQue = 10 > 5; // true
-let menorOuIgual = 5 <= 5; // trueExemplo Prático:
+let menorOuIgual = 5 <= 5; // true
 ```
-
-**Operador de Comparação:**
-
-Permite executar uma operação condicional em uma única linha. Veremos mais sobre condicionais adiante.
-
-Formato: **condição ? valorSeVerdadeiro : valorSeFalso;**
-
-```javascript
-let idade = 20;
-let eAdulto = idade >= 18 ? "Sim" : "Não"; // "Sim"
-```
-
-* **`==`**: Igual a.
-* **`!=`**: Diferente de.
-* **`>`**: Maior que.
-* **`<`**: Menor que.
-* **`>=`**: Maior ou igual a.
-* **`<=`**: Menor ou igual a.
 
 **Exemplo Prático**:
 

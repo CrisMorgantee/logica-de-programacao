@@ -73,7 +73,7 @@ if (idade <= 12) {
     Aqui está o código atualizado:
 
     ```javascript
-    javascriptCopy codeif (idade >= 0 && idade <= 2) {
+    if (idade >= 0 && idade <= 2) {
         console.log("Você é um bebê.");
     } else if (idade <= 12) {
         console.log("Você é uma criança.");

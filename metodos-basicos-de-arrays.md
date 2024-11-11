@@ -42,13 +42,12 @@ Muitas vezes, queremos realizar uma operação em cada elemento de um array. Pod
 
 **Exemplo Prático**:
 
-```javascript
-let frutas = ["Maçã", "Banana", "Laranja"];
+<pre class="language-javascript"><code class="lang-javascript">let frutas = ["Maçã", "Banana", "Laranja"];
 
-for (let i = 0; i < frutas.length; i++) {
+for (let i = 0; i &#x3C; frutas.length; i++) {
     console.log(frutas[i]);
-}
-```
+<strong>}
+</strong></code></pre>
 
 **Explicação do Código**:
 

@@ -22,7 +22,7 @@ Estruturas de repetição permitem que o computador execute uma mesma ação vá
 
 #### **Como Funciona o `for`?**
 
-O `for` é ideal quando sabemos o número exato de repetições que precisamos. Ele tem três partes:
+O `for` é ideal quando sabemos o número exato de repetições que precisamos. Ele tem três partes (argumentos separados por `;`):
 
 * **Inicialização**: Define o ponto de partida.
 * **Condição**: Verifica se a repetição deve continuar.
