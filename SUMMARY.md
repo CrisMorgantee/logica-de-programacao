@@ -4,7 +4,7 @@
 
 ## TÓPICO 1
 
-* [Configuração do Ambiente com Node.js](topico-1/quickstart.md)
+* [Configuração do Ambiente](topico-1/quickstart.md)
 * [Conceitos Básicos de JavaScript](topico-1/publish-your-docs.md)
 
 ## TÓPICO 2
