@@ -19,6 +19,33 @@ O Visual Studio Code é uma IDE flexível e completa, que oferece todas as ferra
 
 ***
 
+## Instalando Node JS
+
+Para rodar JavaScript fora do navegador, usaremos o **Node.js**, uma plataforma que permite executar código JavaScript no terminal. Vamos começar configurando o ambiente:
+
+1. **Instale o Node.js**: Acesse o site oficial [Node.js](https://nodejs.org/) e faça o download e instalação.
+2. **Testando a Instalação**: Abra o terminal e digite:
+
+```bash
+node -v
+```
+
+Isso deve mostrar a versão do Node.js instalada, confirmando que tudo está funcionando.
+
+1. **Executando JavaScript com Node.js**:
+   * No terminal, digite `node` e pressione Enter para entrar no console do Node.js.
+   * Agora, você pode digitar comandos JavaScript e ver o resultado imediatamente.
+
+Digite o seguinte código no console do Node.js e pressione Enter:
+
+```javascript
+console.log("Hello, World!");
+```
+
+O Node.js vai exibir `Hello, World!`, mostrando que o ambiente está funcionando corretamente.
+
+***
+
 ### **Executando** nosso código
 
 Para facilitar a execução e teste dos códigos, crie um arquivo com a extensão `.js` em seu diretório de projetos, por exemplo, em `logica-de-programacao/index.js`
@@ -46,30 +73,3 @@ Olá, mundo! Este é meu primeiro código em Node.js!
 ```
 
 Essa configuração facilita a execução dos códigos, permitindo que você edite e execute arquivos JavaScript de forma prática e rápida.
-
-***
-
-## Instalando Node JS
-
-Para rodar JavaScript fora do navegador, usaremos o **Node.js**, uma plataforma que permite executar código JavaScript no terminal. Vamos começar configurando o ambiente:
-
-1. **Instale o Node.js**: Acesse o site oficial [Node.js](https://nodejs.org/) e faça o download e instalação.
-2. **Testando a Instalação**: Abra o terminal e digite:
-
-```bash
-node -v
-```
-
-Isso deve mostrar a versão do Node.js instalada, confirmando que tudo está funcionando.
-
-1. **Executando JavaScript com Node.js**:
-   * No terminal, digite `node` e pressione Enter para entrar no console do Node.js.
-   * Agora, você pode digitar comandos JavaScript e ver o resultado imediatamente.
-
-Digite o seguinte código no console do Node.js e pressione Enter:
-
-```javascript
-console.log("Hello, World!");
-```
-
-O Node.js vai exibir `Hello, World!`, mostrando que o ambiente está funcionando corretamente.
