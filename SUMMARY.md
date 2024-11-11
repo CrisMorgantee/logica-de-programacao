@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💻 Introdução à Lógica de Programação e Algoritmos com JavaScript](README.md)
+* [💻 Introdução à Lógica de Programação e Algoritmos](README.md)
 
 ## TÓPICO 1
 
