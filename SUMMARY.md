@@ -47,14 +47,14 @@
 
 * [Acessando e Modificando Propriedades do Objeto](acessando-e-modificando-propriedades-do-objeto.md)
 * [Métodos em Objetos](metodos-em-objetos.md)
-* [Projeto Prático: Cadastro de Aluno](projeto-pratico-cadastro-de-aluno.md)
+* [Projeto Prático](projeto-pratico.md)
 * [Tarefa para Praticar](tarefa-para-praticar-1.md)
 
 ## TÓPICO 7
 
 * [Consolidando o Conhecimento de Funções e Parâmetros](topico-7/consolidando-o-conhecimento-de-funcoes-e-parametros.md)
-* [Introdução às Funções de Ordem Superior (Higher-Order Function)](topico-7/introducao-as-funcoes-de-ordem-superior-higher-order-function.md)
 * [Consolidando o Conhecimento de Arrays e Objetos](topico-7/consolidando-o-conhecimento-de-arrays-e-objetos.md)
+* [Introdução às Funções de Ordem Superior (Higher-Order Function)](topico-7/introducao-as-funcoes-de-ordem-superior-higher-order-function.md)
 
 ***
 

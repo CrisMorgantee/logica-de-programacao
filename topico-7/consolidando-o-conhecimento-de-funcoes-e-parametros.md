@@ -11,11 +11,11 @@ Função é um bloco de código que executa uma tarefa específica. Ela pode ter
 **Exemplo Simples**: Função para somar dois números.
 
 ```javascript
-function somar(a, b) {
-    return a + b;
+function oi() {
+    console.log('Oi, a função foi executada!')
 }
 
-console.log(somar(3, 5)); // Saída: 8
+console.log(oi()); // Saída: Oi, a função foi executada!
 ```
 
 ### **Funções com Parâmetros e Retorno**
